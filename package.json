@@ -1,0 +1,9 @@
+{
+  "name": "bear-tea-vercel",
+  "version": "1.0.0",
+  "description": "熊茶館 香港點單 - Vercel Serverless 版（Stripe 收款）",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "stripe": "^16.8.0"
+  }
+}
